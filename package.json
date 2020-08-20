@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Brewtoga/project2.git"
+    "url": "https://github.com/AOsiol/Good-To-Go"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Brewtoga/project2/issues"
+    "url": "https://github.com/AOsiol/Good-To-Go"
   },
-  "homepage": "https://github.com/Brewtoga/project2#readme",
+  "homepage": "https://github.com/AOsiol/Good-To-Go",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "dotenv": "^8.2.0",
